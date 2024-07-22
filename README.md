@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This app perform the following activity
+This app performs the following activity
+
 1.Create a 3x3 matrix
 
 2.When you click on a box - color should change to green
